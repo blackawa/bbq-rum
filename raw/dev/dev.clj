@@ -31,3 +31,6 @@
   (main/system))
 
 (set-init (fn [_] (dev-system)))
+
+(defn cljs-repl []
+  (figwheel-sidecar.system/cljs-repl (:figwheel system)))
