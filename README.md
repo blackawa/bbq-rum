@@ -1,4 +1,4 @@
-# BBQ Rum
+# :sheep::sheep: BBQ Rum :meat_on_bone::beers:
 
 This repository is for hands-on study.
 
